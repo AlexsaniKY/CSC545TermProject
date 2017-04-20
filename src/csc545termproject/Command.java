@@ -5,3 +5,4 @@ package csc545termproject;
 public interface Command {
     public void execute(Object data);
 }
+

@@ -22,7 +22,6 @@ public class CSC545TermProject {
         GUI gui = new GUI();
         gui.onExit(new EndProgram());
         gui.Start();
-        // TODO code application logic here
     }
     
 }
